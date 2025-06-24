@@ -21,7 +21,5 @@ public class NegativeAuth {
         $(".custom-error-notification").shouldHave(text("Bad credentials."));
 
 
-
-        sleep(5000);
     }
 }

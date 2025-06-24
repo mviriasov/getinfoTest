@@ -20,7 +20,6 @@ public class RecoveryForm {
         //Проверка нотификации
         $(".el-notification__group").shouldHave(text("Ссылка на изменение пароля отправлена на почту"));
 
-        sleep(5000);
 
     }
 }
